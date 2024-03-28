@@ -5,5 +5,5 @@
 
 UEでの雑多なギミック処理の実装
 
-- GrabObjects
-  MobilityがMovaleのオブジェクトをつかむ処理を実装したコンポーネント
+- GrabObjects  
+  オブジェクト(MobilityがMovale)をつかむ処理を実装したコンポーネント
