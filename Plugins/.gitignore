@@ -72,11 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Plugins/Runtime/CriWare/CriWare/Intermediate
-Plugins/Runtime/CriWare/CriWare/Binaries
-Plugins/Runtime/CriWare/CriWareCinematics/Intermediate
-Plugins/Runtime/CriWare/CriWareCinematics/Binaries
-Plugins/Runtime/CriWare/CriWareNiagara/Intermediate
-Plugins/Runtime/CriWare/CriWareNiagara/Binaries
-Plugins/RidingSystem/Binaries
-Plugins/RidingSystem/Intermediate
