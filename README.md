@@ -7,3 +7,7 @@ UEでの雑多なギミック処理の実装
 
 - GrabObjects  
   オブジェクト(MobilityがMovale)をつかむ処理を実装したコンポーネント
+
+- FootStepReact  
+  スケルタルメッシュのSocketの当たり判定を利用してFootPrint処理を実装したコンポーネント
+  
